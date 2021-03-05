@@ -1,16 +1,17 @@
-id: opecha:P007918
+id: P007918
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3642
   title: འདུལ་བའི་ལག་ལེན་གྱི་ཆོ་ག་དྲི་མ་མེད་པའི་ཕྲེང་བ་སོགས་ཆོས་ཚན་ཁག་ཅིག
-  volume:
+  author: ''
+  volumes:
     82b704dc3e22456895920b81031933c9:
       image_group_id: I1KG3649
       title: Volume 1 of 'dul ba'i lag len gyi cho ga dri ma med pa'i phreng ba sogs
         chos tshan khag cig
       volume_number: 1
       total_pages: 672
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འདུལ་བའི་ལག་ལེན་གྱི་ཆོ་ག་དྲི་མ་མེད་པའི་ཕྲེང་བ་སོགས་ཆོས་ཚན་ཁག་ཅིག
   author: ''
