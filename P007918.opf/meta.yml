@@ -5,11 +5,13 @@ source_metadata:
   title: འདུལ་བའི་ལག་ལེན་གྱི་ཆོ་ག་དྲི་མ་མེད་པའི་ཕྲེང་བ་སོགས་ཆོས་ཚན་ཁག་ཅིག
   author: ''
   volumes:
-    4f82cc21326e497fb104a602cb4cb424:
+    82b704dc3e22456895920b81031933c9:
       image_group_id: I1KG3649
-      title: ''
+      title: Volume 1 of 'dul ba'i lag len gyi cho ga dri ma med pa'i phreng ba sogs
+        chos tshan khag cig
       volume_number: 1
       total_pages: 672
+      base_file: v001.txt
 ebook_metadata:
   title: འདུལ་བའི་ལག་ལེན་གྱི་ཆོ་ག་དྲི་མ་མེད་པའི་ཕྲེང་བ་སོགས་ཆོས་ཚན་ཁག་ཅིག
   author: ''
